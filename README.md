@@ -1,4 +1,4 @@
-Gemini Chat App
+## Gemini Chat App
 
 A new Flutter project.
 
