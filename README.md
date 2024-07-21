@@ -1,4 +1,4 @@
-# resmi_app
+Gemini Chat App
 
 A new Flutter project.
 
