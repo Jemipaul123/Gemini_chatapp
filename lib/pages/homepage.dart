@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_gemini/flutter_gemini.dart';
 
 
-
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
 
